@@ -1,4 +1,4 @@
 suites:
     main:
-        namespace: Acme\SyliusExamplePlugin
-        psr4_prefix: Acme\SyliusExamplePlugin
+        namespace: PolskaScena\SyliusAffiliatePlugin
+        psr4_prefix: PolskaScena\SyliusAffiliatePlugin

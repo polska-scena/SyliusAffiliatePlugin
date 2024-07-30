@@ -1,5 +1,5 @@
 {
-    "name": "sylius/plugin-skeleton",
+    "name": "polskascena/sylius-affiliate-plugin",
     "type": "sylius-plugin",
     "description": "Acme example plugin for Sylius.",
     "keywords": [
@@ -65,8 +65,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Acme\\SyliusExamplePlugin\\": "src/",
-            "Tests\\Acme\\SyliusExamplePlugin\\": "tests/"
+            "PolskaScena\\SyliusAffiliatePlugin\\": "src/",
+            "Tests\\PolskaScena\\SyliusAffiliatePlugin\\": "tests/"
         }
     },
     "autoload-dev": {
